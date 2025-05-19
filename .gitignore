@@ -1,1 +1,16 @@
 env/
+*.html
+*.csv
+*.xlsx
+air/bin/
+air/lib/
+air2/bin/
+air2/lib/
+entorno_final/bin/
+entorno_final/lib/
+new_env/bin/
+new_env/lib/
+nuevo_entorno/bin/
+nuevo_entorno/lib/
+env/bin/
+env/lib/
